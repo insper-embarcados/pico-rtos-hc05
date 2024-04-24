@@ -37,4 +37,4 @@ conectado no equipamento e não recebe mais comandos.
 
 Para conectar o bluetooth no linux, usar os passos descritos no site:
 
-- https://marcqueiroz.wordpress.com/aventuras-com-arduino/configurando-hc-05-bluetooth-module-device-no-ubuntu-12-04/
+- https://marcqueiroz.wordpress.com/aventuras-com-arduino/configurando-hc-06-bluetooth-module-device-no-ubuntu-12-04/
