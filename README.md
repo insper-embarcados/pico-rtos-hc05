@@ -1,6 +1,6 @@
 # HC-05 Exemplo
 
-Manual: https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-hc-05/resources/hc05.pdf
+Manual: [https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-hc-05/resources/hc05.pdf](https://s3-sa-east-1.amazonaws.com/robocore-lojavirtual/709/HC-05_ATCommandSet.pdf)
 
 Conectar HC-05 no 5V e gnd, pino TX no `GP5` e pino RX no `GP4`. Também é necessário conectar o pino `STATE` do bluetooth no pino `GP3`.
 
