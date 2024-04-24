@@ -13,8 +13,8 @@
 
 #define hc05_UART_ID uart1
 #define hc05_BAUD_RATE 9600
-#define hc05_TX_PIN 4
-#define hc05_RX_PIN 5
+#define hc05_RX_PIN 4
+#define hc05_TX_PIN 5
 #define hc05_PIN 6
 
 bool hc05_check_connection();
